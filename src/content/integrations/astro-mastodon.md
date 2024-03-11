@@ -1,7 +1,7 @@
 ---
 name: "astro-mastodon"
 title: "astro-mastodon"
-description: "🐘 🚀 Mastodon embeds and mentions for Astro websites"
+description: "🐘🚀 Mastodon embeds and mentions for Astro websites"
 categories:
   - "css+ui"
   - "recent"

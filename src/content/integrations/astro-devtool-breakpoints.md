@@ -8,7 +8,7 @@ categories:
   - "recent"
 npmUrl: "https://www.npmjs.com/package/astro-devtool-breakpoints"
 repoUrl: "https://github.com/bryanschuetz/astro-breakpoints"
-homepageUrl: "https://github.com/bryanschuetz/astro-breakpoints#readme"
+homepageUrl: "https://www.npmjs.com/package/astro-devtool-breakpoints?activeTab=readme"
 badge: "new"
 downloads: 458
 ---

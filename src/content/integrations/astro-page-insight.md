@@ -6,6 +6,7 @@ categories:
   - "css+ui"
   - "accessibility"
   - "performance+seo"
+  - "toolbar"
   - "recent"
 npmUrl: "https://www.npmjs.com/package/astro-page-insight"
 repoUrl: "https://github.com/ktym4a/astro-page-insight"
